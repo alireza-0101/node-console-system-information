@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm install -g system-information
+npm install -g @alireza-mh/system-information
 ```
 
 ## Usage

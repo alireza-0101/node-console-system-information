@@ -1,11 +1,12 @@
 {
-  "name": "system-information",
+  "name": "@alireza-mh/system-information",
   "version": "1.0.0",
   "description": "System Information",
-  "bin": "bin.js",
+  "bin": {
+    "system-information": "cli.js"
+  },
   "scripts": {
-    "dev": "nodemon .",
-    "start": "node ."
+    "start": "node cli.js"
   },
   "keywords": [
     "System",
