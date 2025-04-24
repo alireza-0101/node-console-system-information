@@ -1,0 +1,25 @@
+{
+  "name": "system-information",
+  "version": "1.0.0",
+  "description": "System Information",
+  "bin": "bin.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "keywords": [
+    "System",
+    "Information"
+  ],
+  "author": "Alireza Mehdizadeh",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "chalk-table": "^1.0.2",
+    "figlet": "^1.8.1",
+    "inquirer": "^12.6.0",
+    "nodemon": "^3.1.10",
+    "systeminformation": "^5.25.11"
+  }
+}
